@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e4ece7b-5cbc-4eb4-8515-c17447e6a57c": {
+      "ProjectGuid": "1e4ece7b-5cbc-4eb4-8515-c17447e6a57c",
+      "DisplayName": "ProgrammersBlog.Data",
+      "ColorIndex": 0
+    },
+    "1f36f7ec-378f-410b-85c8-5682e1b32aeb": {
+      "ProjectGuid": "1f36f7ec-378f-410b-85c8-5682e1b32aeb",
+      "DisplayName": "ProgrammersBlog.Shared",
+      "ColorIndex": 1
+    },
+    "976a6181-c778-4686-8dd9-fdda342328cf": {
+      "ProjectGuid": "976a6181-c778-4686-8dd9-fdda342328cf",
+      "DisplayName": "ProgrammersBlog.Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0698f3d0-2274-4a7e-b255-64fcb6cb0184": {
+      "ProjectGuid": "0698f3d0-2274-4a7e-b255-64fcb6cb0184",
+      "DisplayName": "ProgrammersBlog.Mvc",
+      "ColorIndex": 3
+    },
+    "2b3420b0-87d5-4874-9f37-4b423e92d791": {
+      "ProjectGuid": "2b3420b0-87d5-4874-9f37-4b423e92d791",
+      "DisplayName": "ProgrammersBlog.Services",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
